@@ -1,1 +1,2 @@
-document.write('Hello, World!');
+// the hello world program
+alert("Hello, World!");
